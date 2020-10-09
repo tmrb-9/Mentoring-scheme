@@ -14,5 +14,3 @@ My objectives are question based and aimed to prepare me for the game developer 
   2. By the end of October, prepare for a game programming interview by:
        a. watching 3 videos on youtube.com and summarizing key points;
        b. researching top 5 interview questions;
-       c. and observing 3 programming test examples.
-  3. Learn basics of Python watching a 4.5 hours video on youtube.com by freeCodeCamp, solve 3 python practice problems for an interview from realpython.com, and compare my solutions with the given.
